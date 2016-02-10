@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Animatedgif::VERSION
   s.authors     = ["Dodi Sabaruddin"]
   s.email       = ["ddsbrddn@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Animatedgif."
-  s.description = "TODO: Description of Animatedgif."
+  s.homepage    = "https://github.com/ddsbrddn/animatedgif"
+  s.summary     = %q{A ruby library for playing gif}
+  s.description = %q{}
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
