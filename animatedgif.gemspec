@@ -20,5 +20,5 @@ Gem::Specification.new do |s|
   s.add_dependency "rails", "~> 4.2.5.1"
 
   s.add_development_dependency "sqlite3"
-  s.add_dependency "httparty", "0.13.1"
+  s.add_dependency "httparty", "~> 0.13.1"
 end
